@@ -1,0 +1,4 @@
+2021-01-24 11:39:45,963 :: INFO :: my_func_2 :: 28 :: Value is 1.6666666666666665
+2021-01-24 11:39:45,963 :: ERROR :: my_func_2 :: 31 :: Not allowed divide by zero.
+2021-01-24 23:32:24,102 :: INFO :: my_func_2 :: 28 :: Value is 1.6666666666666665
+2021-01-24 23:32:24,102 :: ERROR :: my_func_2 :: 31 :: Not allowed divide by zero.

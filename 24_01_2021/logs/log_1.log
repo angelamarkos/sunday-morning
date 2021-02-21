@@ -1,0 +1,18 @@
+2021-01-24 11:25:27,253 -- INFO -- my_func -- 16 -- Value is 0.6
+2021-01-24 11:25:27,253 -- ERROR -- my_func -- 19 -- Not allowed divide by zero.
+2021-01-24 11:28:00,141 -- INFO -- my_func -- 19 -- Value is 0.6
+2021-01-24 11:28:00,141 -- INFO -- my_func_2 -- 18 -- Value is 1.6666666666666665
+2021-01-24 11:28:00,141 -- ERROR -- my_func -- 22 -- Not allowed divide by zero.
+2021-01-24 11:28:00,141 -- ERROR -- my_func_2 -- 21 -- Not allowed divide by zero.
+2021-01-24 11:28:20,942 -- INFO -- my_func -- 19 -- Value is 0.6
+2021-01-24 11:28:20,942 -- INFO -- my_func_2 -- 18 -- Value is 1.6666666666666665
+2021-01-24 11:28:20,942 -- ERROR -- my_func -- 22 -- Not allowed divide by zero.
+2021-01-24 11:28:20,942 -- ERROR -- my_func_2 -- 21 -- Not allowed divide by zero.
+2021-01-24 11:28:39,506 -- INFO -- my_func -- 19 -- Value is 0.6
+2021-01-24 11:28:39,506 -- INFO -- my_func_2 -- 18 -- Value is 1.6666666666666665
+2021-01-24 11:28:39,506 -- ERROR -- my_func -- 22 -- Not allowed divide by zero.
+2021-01-24 11:28:39,506 -- ERROR -- my_func_2 -- 21 -- Not allowed divide by zero.
+2021-01-24 11:39:45,963 -- INFO -- my_func -- 29 -- Value is 0.6
+2021-01-24 11:39:45,963 -- ERROR -- my_func -- 32 -- Not allowed divide by zero.
+2021-01-24 23:32:24,102 -- INFO -- my_func -- 30 -- Value is 0.6
+2021-01-24 23:32:24,102 -- ERROR -- my_func -- 33 -- Not allowed divide by zero.
